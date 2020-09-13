@@ -185,7 +185,7 @@ img{
 /* Banner Section */
 
 .banner{
-    background: url(../assets/img/mbr-4.jpg) no-repeat center center;
+    background: url(assets/img/mbr-4.jpg) no-repeat center center;
     background-size: cover;
     padding: 125px;
     margin-top: 69px;
